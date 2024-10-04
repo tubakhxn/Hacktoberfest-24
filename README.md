@@ -10,9 +10,9 @@
 </p> -->
 
 ## Contributors of `Hacktoberfest 2024`
-
-<div align="center">
 <!--
+<div align="center">
+
 <a href="https://github.com/sherigar/HacktoberFest-2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=KarthikGanapaR/Hactoberfest-23" />
 </a> 
