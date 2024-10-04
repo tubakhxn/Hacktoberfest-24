@@ -2,14 +2,14 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5121ff55-079b-4393-9588-0cf2d2790909"> 
 </p>
-<p align="center">
+<!--<p align="center">
    <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/KarthikGanapaR/Hactoberfest-24">
    <img alt="GitHub forks" src="https://img.shields.io/github/forks/KarthikGanapaR/Hactoberfest-24">
    <img alt="contributors" src="https://img.shields.io/github/contributors/KarthikGanapaR/Hactoberfest-24">
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/KarthikGanapaR/Hactoberfest-24">
-</p>
+</p> -->
 
-## Contributors of `Hacktoberfest 2023`
+## Contributors of `Hacktoberfest 2024`
 
 <div align="center">
 <!--
